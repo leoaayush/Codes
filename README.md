@@ -1,2 +1,2 @@
 # Codes
-Codes written by me(in C and C++)
+Data Structure Codes ( c and c++ )
