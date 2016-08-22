@@ -1,0 +1,9 @@
+*Stacks and queues.
+when stack is empty top = -1;
+-------------------------------------
+				STACK WITH LINKED LIST
+				-------------------------
+top=NULL;
+top points to new element
+insert at beginning and then make the new to point to ground.
+
